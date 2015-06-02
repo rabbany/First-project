@@ -1,0 +1,11 @@
+H:\Basis All project\BookInformationAPP\BookInformationAPP\bin\Debug\BookInformationAPP.exe.config
+H:\Basis All project\BookInformationAPP\BookInformationAPP\bin\Debug\BookInformationAPP.exe
+H:\Basis All project\BookInformationAPP\BookInformationAPP\bin\Debug\BookInformationAPP.pdb
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.UI.BookCatagorieUI.resources
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.UI.BookInformationUI.resources
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.Properties.Resources.resources
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.UI.MainInterface.resources
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.csproj.GenerateResource.Cache
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.exe
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.pdb
+H:\Basis All project\BookInformationAPP\BookInformationAPP\obj\Debug\BookInformationAPP.csprojResolveAssemblyReference.cache
